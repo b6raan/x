@@ -1,0 +1,14 @@
+Package: io.github.B6raan.snapbreak 
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: B6raan
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.cokepokes.PhantomFak 
+Filename: io.github.B6raan.x.snapbreak_1.7.1_iphoneos-arm.deb
+Size: 5,079,394 Bytes
+MD5sum: E273C7156D0A5196ACAB2F56C6790268
+SHA1: 043E246CF45DAC06DA18B2C92780BD170DB0FE04
+SHA256: 566E06BD297DBA7D93B7C3791300A9F5A9F4F87A85684FE9DB253A991AC4F540
+Section: Tweaks
+Depiction: https://b6raan.github.io/x/ 
+Name: snapbreak 
