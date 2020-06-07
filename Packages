@@ -1,4 +1,7 @@
-Package: io.github.B6raan.snapbreak 
+Name: snapbreak
+Section: Tweaks
+Depiction: https://b6raan.github.io/x/
+Package: io.github.B6raan.snapbreak
 Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: B6raan
@@ -9,41 +12,35 @@ Size: 5,079,394 Bytes
 MD5sum: E273C7156D0A5196ACAB2F56C6790268
 SHA1: 043E246CF45DAC06DA18B2C92780BD170DB0FE04
 SHA256: 566E06BD297DBA7D93B7C3791300A9F5A9F4F87A85684FE9DB253A991AC4F540
+
+
+Name: SnapBreak Cracked
 Section: Tweaks
 Depiction: https://b6raan.github.io/x/ 
-Name: snapbreak 
-
-
-
-
 Package:  io.github.b6raan.snapbreakx
 Version: 1.7.1x
 Architecture: iphoneos-arm
 Maintainer: B6raan
 Depends: firmware (>= 10.0), mobilesubstrate, sed, 
 Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
-Filename: io.github.B6raan.snapbreak_1.7.1x_iphoneos-arm
-Size: 6464594 Bytes
-MD5sum: 
-SHA1:a4a8fed30b3f502735faab0a5dd8aa29cc916d86fa44a9d7f3d0c7085f0b75b6 
-SHA256: bfccb5574b78cbf9f1d7c6bf5548e67115ce98e8a4a8fed30b3f502735faab0a5dd8aa29cc916d86fa44a9d7f3d0c7085f0b75b6
+Filename: io.github.B6raan.snapbreakx_1.7.1x_iphoneos-arm
+Size: 6,464,590 Bytes
+MD5sum: E07C4D85AC5E31BE27BCA1CBB332F415
+SHA1: E96E94A052328C54C94383C792A5E240D1364E33 
+SHA256: 1A2AC5F676CB237A781306AF951DD4EB01C9D5DD37DA388EEBC2BE2F295AB324
+
+
 Section: Tweaks
 Depiction: https://b6raan.github.io/x/ 
-Name: SnapBreak Cracked
-
-
-
-Package: io.github.B6raan.libertylite.beta 
+Name: Liberty Lite
+Package: io.github.B6raan.libertylitebeta 
 Version: 0.2.12
 Architecture: iphoneos-arm
 Maintainer:B6raan
 Depends: firmware (>= 10.0), mobilesubstrate, sed 
 Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.cokepokes.PhantomFak
-Filename: io.github.B6raan.libertylite.beta_0.2.12_iphoneos-arm
-Size: 5079394 Bytes
-MD5sum: e273c7156d0a5196acab2f56c6790268
-SHA1: 043e246cf45dac06da18b2c92780bd170db0fe04
-SHA256: 566e06bd297dba7d93b7c3791300a9f5a9f4f87a85684fe9db253a991ac4f540
-Section: Tweaks
-Depiction: https://b6raan.github.io/x/ 
-Name: Liberty Lite
+Filename: io.github.B6raan.libertylitebeta_0.2.12_iphoneos-arm
+Size: 5,079,394 Bytes
+MD5sum: E273C7156D0A5196ACAB2F56C6790268
+SHA1: 043E246CF45DAC06DA18B2C92780BD170DB0FE04
+SHA256: 566E06BD297DBA7D93B7C3791300A9F5A9F4F87A85684FE9DB253A991AC4F540
