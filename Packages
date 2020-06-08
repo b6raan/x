@@ -14,21 +14,6 @@ SHA1: 043e246cf45dac06da18b2c92780bd170db0fe04
 SHA256: 566e06bd297dba7d93b7c3791300a9f5a9f4f87a85684fe9db253a991ac4f540
 
 
-Package: io.github.b6raan.snapbreakx
-Architecture: iphoneos-arm
-Name: SnapBreak Cracked
-Section: Tweaks
-Depiction: https://b6raan.github.io/x/
-Version: 1.7.1x
-Maintainer: B6raan
-Depends: firmware (>= 10.0), mobilesubstrate, sed, 
-Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
-Filename: io.github.B6raan.snapbreakx_1.7.1x_iphoneos-arm
-Size: 6,464,590 Bytes
-MD5sum: e07c4d85ac5e31be27bca1cbb332f415
-SHA1: e96e94a052328c54c94383c792a5e240d1364e33 
-SHA256: 1a2ac5f676cb237a781306af951dd4eb01c9d5dd37da388eebc2be2f295ab324
-
 Package: io.github.B6raan.libertylitebeta
 Architecture: iphoneos-arm
 Name: Liberty Lite (Beta)
@@ -43,3 +28,23 @@ Size: 082,392 Bytes
 MD5sum: 1145ed14e762141dd962681f1e5ea9a8
 SHA1: aad57dc8d7e848cfc49e1087aff3c55e75a2a928
 SHA256: fcdc78ae548802b4bb9efccaadee5fe83b602d3c2d94b9c01d82185dc54adcb4
+
+
+
+Package: com.b6raan.snapbreakx
+Version: 1.7.1x
+Architecture: iphoneos-arm
+Maintainer: b6raan
+Installed-Size: 6464590
+Depends: firmware (>= 10.0), mobilesubstrate, sed, 
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
+Filename: io.github.B6raan.snapbreakx_1.7.1x_iphoneos-arm
+Size: 6464590
+MD5sum: e07c4d85ac5e31be27bca1cbb332f415
+SHA1: e96e94a052328c54c94383c792a5e240d1364e33
+SHA256: 1a2ac5f676cb237a781306af951dd4eb01c9d5dd37da388eebc2be2f295ab324
+Section: Tweaks
+Description: B6raan | بطران
+Author: B6raan 
+Depiction: https://b6raan.github.io/x/
+Name: SnapBreak Cracked
